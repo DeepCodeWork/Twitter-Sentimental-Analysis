@@ -1,4 +1,3 @@
-#name = twitter_sentiment_tacosushi
 #Import the necessary methods from tweepy library as well as json and time
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
